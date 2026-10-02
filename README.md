@@ -1,6 +1,6 @@
 # The-Graduation-project-
-# [Project Name]
-### _[Project Tagline / Short Description]_
+# [Airbnb European Cities]
+### _[Airbnb European Cities: Pricing Analysis & Prediction ]_
 
 ---
 
@@ -19,7 +19,7 @@
 ---
 
 ##  Project Overview
-[Write a clear paragraph explaining what the project is about, what problem it solves, and how it will be presented.]
+[This project analyzes Airbnb listing prices across 10 major European cities to identify the key geographical and service factors driving rental rates. By evaluating over 51,000 listings across weekdays and weekends, the study examines the impact of room types, proximity to city centres and metro stations, cleanliness ratings, and superhost status on pricing. The project delivers a complete data pipeline comprising data cleaning and wrangling, geospatial exploratory data analysis, a predictive machine learning regression model, and an interactive Power BI dashboard.]
 
 ---
 
